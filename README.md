@@ -2,7 +2,7 @@
 
 A mini project under Internshala Internship Selection Process.
 
-<h3 align="center"><a href="https://github.com/Ansh-Rathod/Flutter-Social-media-photoarc-app/releases/download/v1.0.0/app-armeabi-v7a-release.apk">Download the release APK</a></h3>
+<h3 align="center"><a href="https://github.com/Hemang14/Clan_app_ui/blob/main/app-release.apk">Download the release APK</a></h3>
 </p>
 ## **How to run?**
 
